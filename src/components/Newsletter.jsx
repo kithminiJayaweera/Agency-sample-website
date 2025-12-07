@@ -2,6 +2,7 @@ import React from 'react';
 import Button from './Button';
 import pie from '../assets/PieChart.png';
 import star from '../assets/Star.png';
+import {motion} from 'framer-motion';
 
 
 const Newsletter = () => {
