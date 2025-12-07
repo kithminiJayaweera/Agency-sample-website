@@ -13,6 +13,8 @@ import caspio from '../assets/caspio.png';
 import hyper from '../assets/HyperGrid.png';
 import leo from '../assets/leotrippi.png';
 
+import{motion} from 'framer-motion';
+
 const Services = () => {
 
   return (
